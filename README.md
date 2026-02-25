@@ -378,9 +378,6 @@ Navigate to **[http://localhost:5173](http://localhost:5173)**
 
 ---
 
-## 📄 License
-
-This project is licensed under the **ISC License**.
 
 ---
 
