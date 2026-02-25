@@ -116,6 +116,15 @@ Browser
 
 ---
 
+## Screenshot
+
+<img width="1913" height="920" alt="Screenshot 2026-02-25 212106" src="https://github.com/user-attachments/assets/2eff2273-6b1f-48a3-abfa-0bee7637e91f" />
+
+
+<img width="1912" height="888" alt="Screenshot 2026-02-25 212124" src="https://github.com/user-attachments/assets/d9d9f9bc-661f-447e-b7e9-746b00a3e9e8" />
+
+
+
 ## 🧠 Technical Decisions
 
 ### 1. Groq API with OpenAI-Compatible SDK
