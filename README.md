@@ -7,7 +7,6 @@
 ## 📋 Table of Contents
 
 - [Overview](#-overview)
-- [Live Demo](#-live-demo)
 - [Features](#-features)
 - [System Architecture](#-system-architecture)
 - [Technical Decisions](#-technical-decisions)
